@@ -37,7 +37,7 @@ No complex build process or dependencies are required. You can run this project 
 1.  **Locally:**
     - Clone the repository:
       ```bash
-      git clone <repository-url>
+      git clone https://github.com/JoabOwala/graphql.git
       ```
     - Open the `index.html` file in your web browser.
 
