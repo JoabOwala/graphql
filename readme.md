@@ -42,7 +42,7 @@ No complex build process or dependencies are required. You can run this project 
     - Open the `index.html` file in your web browser.
 
 2.  **Hosted:**
-    - The project is composed of static files (`.html`, `.css`, `.js`) and is deployed on GitHub Pages
+    - The project is composed of static files (`.html`, `.css`, `.js`) and is deployed on GitHub Pages. Visit => https://joabowala.github.io/graphql/
 
 ## How It Works
 
